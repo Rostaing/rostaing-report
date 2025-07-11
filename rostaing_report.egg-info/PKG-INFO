@@ -1,3 +1,25 @@
+Metadata-Version: 2.4
+Name: rostaing-report
+Version: 0.1.0
+Summary: Generate comprehensive EDA and statistical reports from Pandas DataFrames with a single line of code.
+Author-email: Davila Rostaing <rostaingdavila@gmail.com>
+Project-URL: Homepage, https://github.com/Rostaing/rostaing-report
+Project-URL: Bug Tracker, https://github.com/Rostaing/rostaing-report/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pandas>=1.5.0
+Requires-Dist: numpy>=1.23.0
+Requires-Dist: scipy>=1.9.0
+Requires-Dist: tabulate>=0.9.0
+Dynamic: license-file
+
 ## Rostaing Report, created by Davila Rostaing.
 
 **rostaing-report** is a powerful yet easy-to-use Python package designed to dramatically accelerate the Exploratory Data Analysis (EDA) process. In just one line of code, it generates a complete and beautifully formatted report from a Pandas DataFrame, covering everything from descriptive statistics to key inferential tests.
@@ -139,6 +161,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Useful Links
 - Github: https://github.com/Rostaing/rostaing-report
-- PyPI: https://pypi.org/project/rostaing-report/
+- PyPI: https://pypi.org/project/rostaing-ocr/
 - LinkedIn: https://www.linkedin.com/in/davila-rostaing/
 - YouTube: [youtube.com/@RostaingAI](https://youtube.com/@rostaingai?si=8wo5H5Xk4i0grNyH)
