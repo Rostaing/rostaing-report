@@ -1,4 +1,3 @@
-```markdown
 # Rostaing Report: The All-in-One Data Analysis Toolkit
 
 <p align="center">
@@ -600,4 +599,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 - [PyPI Project Page](https://pypi.org/project/rostaing-report/)
 - [Author's LinkedIn](https://www.linkedin.com/in/davila-rostaing/)
 - [Author's YouTube Channel](https://youtube.com/@rostaingai?si=8wo5H5Xk4i0grNyH)
-```
